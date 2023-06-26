@@ -6,7 +6,19 @@
 </div>
 
 # 💫 About Me:
-Computer Science (Software Engineering) Graduate <br>🌱 Exploring the changes in technology<br>⚡ In my free time, I try to code
+👋 Hello, fellow developers! I'm Hasan, a passionate coder and collaborator. Welcome to my GitHub profile!
+
+🚀 I thrive on building innovative software solutions and enjoy working with diverse teams to solve complex problems. My code journey began 5 years ago, and I've been hooked ever since. Constantly learning and exploring new technologies, I strive to stay at the forefront of the ever-evolving tech landscape.
+
+💻 My areas of expertise include Software Engineering. I'm always excited to dive into new domains and expand my skill set. Collaboration is key to me, and I'm eager to contribute to open-source projects and engage in meaningful discussions with fellow developers.
+
+🔧 On GitHub, you'll find a collection of my personal projects, experiments, and contributions to open source. I believe in the power of teamwork and the collective intelligence of the developer community. Let's connect, collaborate, and build something awesome together!
+
+🌍 Besides coding, I have a passion for [mention your other interests or hobbies]. Life is all about balance, after all!
+
+📫 Feel free to contact me through GitHub or connect with me on other platforms. I'm always up for engaging in conversations, exchanging ideas, and exploring opportunities for collaboration.
+
+🙏 Thank you for visiting my GitHub profile. Let's code, create, and make an impact together!
 
 
 ## 🌐 Socials:
