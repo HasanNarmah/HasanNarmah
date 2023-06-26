@@ -14,7 +14,7 @@ I'm Hasan, a passionate coder and Welcome to my GitHub profile!
 
 🔧 On GitHub, you'll find a collection of my personal projects, experiments, and contributions to open source. I believe in the power of teamwork and the collective intelligence of the developer community. Let's connect, collaborate, and build something awesome together!
 
-🌍 Besides coding, I have a passion for [mention your other interests or hobbies]. Life is all about balance, after all!
+🌍 Besides coding, I have a passion for F1 and technology. Life is all about balance, after all!
 
 📫 Feel free to contact me through GitHub or connect with me on other platforms. I'm always up for engaging in conversations, exchanging ideas, and exploring opportunities for collaboration.
 
