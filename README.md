@@ -6,7 +6,7 @@
 </div>
 
 # 💫 About Me:
-👋 Hello, fellow developers! I'm Hasan, a passionate coder and collaborator. Welcome to my GitHub profile!
+I'm Hasan, a passionate coder and Welcome to my GitHub profile!
 
 🚀 I thrive on building innovative software solutions and enjoy working with diverse teams to solve complex problems. My code journey began 5 years ago, and I've been hooked ever since. Constantly learning and exploring new technologies, I strive to stay at the forefront of the ever-evolving tech landscape.
 
